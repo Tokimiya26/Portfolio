@@ -41,7 +41,7 @@
             <p class="mb-5">詳細：<br>
             横スクロールのゲームになります。ターザンをアップ・ダウンボタンで操作して木の間を通って進んでいきます。木の間を通るたびにスコアが１プラスされ、スピードもアップしていきます。画面枠や木に当たるとゲームオーバーです。是非遊んでみて下さい！</p>
             <a class="btn btn-lg btn-info mr-2" href="https://toki-life.com/Tarzan-Go/" target="_blank"><span><i class="far fa-arrow-alt-circle-right"></i></span> デモ</a>
-            <a class="btn btn-lg btn-info ml-2" href=""><span><i class="fab fa-github"></i></span> GitHub</a>
+            <a class="btn btn-lg btn-info ml-2" href="https://github.com/Tokimiya26/Tarzan-Go" target="_blank"><span><i class="fab fa-github"></i></span> GitHub</a>
           </div>
         </div>
       </div>

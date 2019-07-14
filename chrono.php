@@ -41,7 +41,7 @@
             <p class="mb-5">詳細：<br>
             Wordpressのテーマを1から自作しました。プラグインなしのデフォルトの状態で様々な機能を使えるようにしております。また、自身の<a href="https://tokimilog.com/" target="_blank">ブログ</a>にこのテーマを使用しています。</p>
             <a class="btn btn-lg btn-info mr-2" href="https://toki-life.com/" target="_blank"><span><i class="far fa-arrow-alt-circle-right"></i></span> デモ</a>
-            <a class="btn btn-lg btn-info ml-2" href=""><span><i class="fab fa-github"></i></span> GitHub</a>
+            <a class="btn btn-lg btn-info ml-2" href="https://github.com/Tokimiya26/Chrono" target="_blank"><span><i class="fab fa-github"></i></span> GitHub</a>
           </div>
         </div>
       </div>

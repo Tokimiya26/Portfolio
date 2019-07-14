@@ -40,7 +40,7 @@
             HTML/CSS/Bootstrap/jQuery/PHP</p>
             <p class="mb-5">詳細：<br>
             現在ご覧になっているサイトです。jQueryを使用しナビバーからスムーズスクロールできるようにしました。またPHPによるページ遷移、お問い合わせ機能も搭載しております。</p>
-            <a class="btn btn-lg btn-info ml-auto" href=""><span><i class="fab fa-github"></i></span> GitHub</a>
+            <a class="btn btn-lg btn-info ml-auto" href="https://github.com/Tokimiya26/Portfolio" target="_blank"><span><i class="fab fa-github"></i></span> GitHub</a>
           </div>
         </div>
       </div>
