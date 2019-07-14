@@ -62,7 +62,7 @@
         <div class="col-md-8">
           <h4>KENGO FUJIMOTO</h4>
           <p>大学を卒業後、家庭日用品の営業マンとして約２年勤めておりました。</p>
-          <p>現在はプログラミングに惹かれ独学を行っております。これまで主にHTML/CSS/Bootstrap/jQuery/PHP/MySQL/Wordpress/Github等を学んできました。それらの知識をもとに作成した制作物が下記になります。</p>
+          <p>現在はプログラミングに惹かれ独学を行っております。これまで主にHTML/CSS/Bootstrap/jQuery/PHP/MySQL/Wordpress/Git/Github等を学んできました。それらの知識をもとに作成した制作物が下記になります。</p>
           <p>またPHPでの開発速度を高めるためにLaravelを学習中です。</p>
         </div>
       </div>
@@ -82,7 +82,7 @@
           <div class="tarzan col-md-6">
             <div class="work-img" style="background-image: url('img/Tarzan-Go.png')"></div>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-6 mb-5">
             <p class="heading-p text-center">横スクロールのゲームを作成しました。</p>
             <div class="link-btn text-center">
               <a class="btn btn-info btn-lg" href="tarzan.php">詳細</a>
@@ -92,7 +92,7 @@
           <div class="chrono col-md-6">
             <div class="work-img" style="background-image: url('img/Chrono.jpg')"></div>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-6 mb-5">
             <p class="heading-p text-center">Wordpressテーマを自作しました。</p>
             <div class="link-btn text-center">
               <a class="btn btn-info btn-lg" href="chrono.php">詳細</a>
@@ -102,7 +102,7 @@
           <div class="comic col-md-6">
             <div class="work-img" style="background-image: url('img/YOUR-MEMORABLE-COMIC.png')"></div>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-6 mb-5">
             <p class="heading-p text-center">漫画投稿サービスを作成しました。</p>
             <div class="link-btn text-center">
               <a class="btn btn-info btn-lg" href="comic.php">詳細</a>
