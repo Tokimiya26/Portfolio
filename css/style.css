@@ -1,0 +1,216 @@
+/*------------------------------------------------------------
+ 共通CSS
+------------------------------------------------------------*/
+body {
+  overflow-x: hidden;
+  overflow-wrap: break-word;
+  font-family: 'Poppins', sans-serif;
+  color: #505962;
+}
+[class*="col-"] {
+  padding: 16px;
+}
+.container-mail {
+  width: 60%;
+  margin: 0 auto;
+}
+.row {
+margin-left: 0px!important;
+margin-right: 0px!important;
+}
+.heading {
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+.heading-title {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+.heading-under-line {
+  width: 48px;
+  height: 3px;
+  background-color: #38a1db;
+  margin: 0 auto 36px;
+}
+.heading-p {
+  font-size: 20px;
+  margin: 48px 0;
+}
+/*------------------------------------------------------------
+ header
+------------------------------------------------------------*/
+.navbar {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  background-color: rgba(0, 0, 0, 0.6)!important;
+}
+.navbar-brand img {
+  height: 32px;
+}
+.navbar-nav li {
+  padding-right: 20px;
+}
+.navbar-dark .navbar-nav .nav-link {
+  padding-top: 13px;
+}
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #38a1db;
+}
+/*------------------------------------------------------------
+ home-section
+------------------------------------------------------------*/
+.home {
+  background-image: url('../img/bg-home.jpg');
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+  position: relative;
+}
+.home-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  margin:0;
+  padding:0;
+  text-shadow: 1px 1px 15px #000;
+  font-weight: bold;
+}
+.home h1 {
+  font-size: 100px;
+  text-transform: uppercase;
+}
+.home h3 {
+  font-size: 45px;
+}
+/*------------------------------------------------------------
+ profile-section
+------------------------------------------------------------*/
+.profile img {
+  width: 70%;
+}
+.profile h4 {
+  font-size: 25px;
+  font-weight: bold;
+}
+.profile p {
+  font-size: 18px;
+}
+/*------------------------------------------------------------
+ works-section
+------------------------------------------------------------*/
+.work-img {
+  width: 100%;
+  height: 400px;
+  background-position: center;
+  background-size: cover;
+}
+.link-btn {
+  margin-top: 48px;
+}
+/*------------------------------------------------------------
+ contact-section
+------------------------------------------------------------*/
+.form-group .required {
+  background-color: red;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+.form-group .any {
+  background-color: navy;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+.mail-section {
+  padding: 100px 0;
+  background-image: url('../img/bg-email.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.contact-form {
+  border: 1px solid #333;
+  border-radius: 5px;
+  background-color: #f3f3f3;
+}
+/*------------------------------------------------------------
+ footer
+------------------------------------------------------------*/
+footer {
+  padding:20px 0;
+}
+/*------------------------------------------------------------
+ Media-Query
+------------------------------------------------------------*/
+@media (max-width: 1024px) {
+  .navbar-nav li {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container-mail {
+    width: 80%;
+  }
+  .home h1 {
+    font-size: 80px;
+  }
+  .home h3 {
+    font-size: 35px;
+  }
+  .navbar {
+    font-size: 20px;
+  }
+  .navbar-nav li {
+    padding-right: 10px;
+  }
+  .img-wrap img {
+    height: 250px;
+  }
+  .work-img {
+    height: 300px;
+  }
+}
+
+@media (max-width: 576px) {
+  .container-mail {
+    width: 95%;
+  }
+  .heading-title {
+    font-size: 25px;
+  }
+  .heading-under-line {
+    margin: 0 auto 10px;
+  }
+  .heading-p {
+    margin: 0;
+  }
+  .home h1 {
+    font-size: 50px;
+  }
+  .home h3 {
+    font-size: 25px;
+  }
+  .profile h4 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .link-btn {
+    margin-top: 15px;
+    margin-bottom: 30px;
+  }
+  .contact-form h1 {
+    font-size: 28px;
+  }
+}
