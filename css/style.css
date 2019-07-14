@@ -3,6 +3,7 @@
 ------------------------------------------------------------*/
 body {
   overflow-x: hidden;
+  word-wrap: break-word;
   overflow-wrap: break-word;
   font-family: 'Poppins', sans-serif;
   color: #505962;
