@@ -39,7 +39,7 @@
             <p class="mb-5">使用技術等：<br>
             HTML/CSS/Bootstrap/PHP/MySQL</p>
             <p class="mb-5">詳細：<br>
-            お気に入りの漫画を投稿して共有できるサイトです。記事一覧表示機能、CRUD機能、会員登録、ログイン・ログアウト、DBテーブルのリレーション機能、ページネーション機能など様々な機能を盛り込み作成しました。</p>
+            お気に入りの漫画を投稿して共有できるサイトです。オススメのポイントやエピソードを添えて投稿してみて下さい。新しい一冊に出会えるかもしれません。</p>
             <a class="btn btn-lg btn-info mr-2" href="https://toki-life.com/YOUR-MEMORABLE-COMIC/" target="_blank"><span><i class="far fa-arrow-alt-circle-right"></i></span> デモ</a>
             <a class="btn btn-lg btn-info ml-2" href="https://github.com/Tokimiya26/YOUR-MEMORABLE-COMIC" target="_blank"><span><i class="fab fa-github"></i></span> GitHub</a>
           </div>
