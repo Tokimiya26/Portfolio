@@ -109,6 +109,16 @@
             </div>
           </div>
 
+          <div class="comic col-md-6">
+            <div class="work-img" style="background-image: url('img/Penny-Candy-Store.png')"></div>
+          </div>
+          <div class="col-md-6 mb-5">
+            <p class="heading-p text-center">駄菓子ショッピングサイトを作成しました。</p>
+            <div class="link-btn text-center">
+              <a class="btn btn-info btn-lg" href="store.php">詳細</a>
+            </div>
+          </div>
+
           <div class="portfolio col-md-6">
             <div class="work-img" style="background-image: url('img/Portfolio.png')"></div>
           </div>
